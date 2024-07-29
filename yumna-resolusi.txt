@@ -5,3 +5,4 @@ saya baru meluncur di dunia IT (saya career swithcer pak hehe) terus saya tau ch
 * Bekerja dunia IT, khususnya di bagian web development
 * Konsisten belajar ngoding tiap minggu
 * Dapet banyak sertifikasi terkait pemograman
+* Membuat website menggunakan laravel
